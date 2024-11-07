@@ -11,3 +11,5 @@ Welcome to the Caffeine Tracker App! This elegant and intuitive React applicatio
 - **Realtime Database**: Store your data in Firebase's Realtime Database, ensuring that your information is accessible and synchronized across all devices.
 
 Enjoy using the Caffeine Tracker App to optimize your caffeine intake and maintain a balanced lifestyle!
+
+<a href="https://trakafine.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
