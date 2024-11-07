@@ -135,7 +135,7 @@ export default function CoffeeForm(props) {
           })}
         </select>
       )}
-      <h4>Add the cost ($)</h4>
+      <h4>Add the cost (₹)</h4>
       <input
         className="w-full"
         type="number"

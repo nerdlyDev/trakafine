@@ -36,22 +36,13 @@ export default function Layout(props) {
   const footer = (
     <footer>
       <p>
-        <span className="text-gradient">trakafine</span> was made by{" "}
+        <span className="text-gradient">Trakafine</span> was made by{" "}
         <a target="_blank" href="https://github.com/nerdlyDev">
           nerdlyDev
         </a>{" "}
         <br />
-        using the{" "}
-        <a href="https://www.fantacss.smoljames.com" target="_blank">
-          FantaCSS
-        </a>{" "}
-        design library.
-        <br />
         Check out the project on{" "}
-        <a
-          target="_black"
-          href="https://www.github.com/jamezmca/reactjs-full-course"
-        >
+        <a target="_black" href="https://www.github.com/nerdlyDev/trakafine">
           GitHub
         </a>
         !

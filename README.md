@@ -1,8 +1,13 @@
-# React + Vite
+# ☕ Caffeine Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Caffeine Tracker App! This elegant and intuitive React application helps you monitor your daily caffeine intake with ease. Built using Vite, Firebase, and React, this app ensures that you stay informed and in control of your caffeine consumption.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add & Remove Caffeine**: Effortlessly log your caffeine intake and remove entries as needed. Keep track of your total consumption with ease.
+- **Daily Caffeine Limit**: Set a personal daily caffeine limit and receive alerts when you approach or exceed your threshold.
+- **Consumption Tracking**: Visualize your caffeine consumption over time with insightful graphs and track patterns in your intake.
+- **Secure Authentication**: Benefit from Firebase Authentication to keep your data safe. Create an account and sign in to manage your caffeine log securely.
+- **Realtime Database**: Store your data in Firebase's Realtime Database, ensuring that your information is accessible and synchronized across all devices.
+
+Enjoy using the Caffeine Tracker App to optimize your caffeine intake and maintain a balanced lifestyle!
